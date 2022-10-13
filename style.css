@@ -144,13 +144,11 @@ body
 }
 
 
-.news h3{
-    
+.news h3{   
     margin-bottom: 50px;
 }
 
 .news-timeline{
-    
     list-style-type: none;
     position: relative;
 }
